@@ -1,0 +1,7 @@
+class Welcome
+{
+public static void main(Stribg[] args)
+{
+System.out.println(" welecome java");
+}
+}
